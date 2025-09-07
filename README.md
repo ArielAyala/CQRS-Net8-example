@@ -1,10 +1,10 @@
-````markdown name=README.md
+````markdown
 # CQRS-Net8-example
 
-[![.NET Version](https://img.shields.io/badge/.NET-8.0-blue.svg)](https://dotnet.microsoft.com/)
-[![License](https://img.shields.io/github/license/ArielAyala/CQRS-Net8-example.svg)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/ArielAyala/CQRS-Net8-example.svg)](https://github.com/ArielAyala/CQRS-Net8-example/commits/main)
-[![Issues](https://img.shields.io/github/issues/ArielAyala/CQRS-Net8-example.svg)](https://github.com/ArielAyala/CQRS-Net8-example/issues)
+[![.NET Version](https://img.shields.io/badge/.NET-8.0-blue)](https://dotnet.microsoft.com/)
+[![License](https://img.shields.io/github/license/ArielAyala/CQRS-Net8-example)](https://github.com/ArielAyala/CQRS-Net8-example/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/ArielAyala/CQRS-Net8-example)](https://github.com/ArielAyala/CQRS-Net8-example/commits/main)
+[![Issues](https://img.shields.io/github/issues/ArielAyala/CQRS-Net8-example)](https://github.com/ArielAyala/CQRS-Net8-example/issues)
 
 ## Overview
 
@@ -81,5 +81,5 @@ This project is licensed under the MIT License.
 ---
 
 Feel free to explore, clone, and adapt this project for your own needs. If you find it helpful, give it a star ⭐!
-
+````
 ````
