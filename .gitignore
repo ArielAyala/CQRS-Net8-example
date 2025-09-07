@@ -1,0 +1,75 @@
+# .gitignore para proyecto .NET / Visual Studio
+# Generado para CQRS.Example
+
+# Build outputs
+**/bin/
+**/obj/
+out/
+publish/
+
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet and packages
+*.nupkg
+packages/
+project.lock.json
+artifacts/
+
+# Rider
+.idea/
+*.DotSettings.user
+
+# ASP.NET / secrets / local config
+appsettings.Development.json
+secrets.json
+secrets.*
+
+# Entity Framework / local DBs
+*.db
+*.db-shm
+*.db-wal
+*.mdf
+*.ldf
+
+# Test results / coverage
+TestResults/
+*.trx
+coverage/
+*.coverage
+*.coveragexml
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Generated files by tooling / build
+**/*.g.cs
+**/*.g.i.cs
+**/*._i.cs
+obj/**
+
+# Static web assets / publish artifacts
+**/scopedcss/
+**/staticwebassets/
+
+# Misc
+*.vsix
+*.ncb
+*.cache
+*.bak
+*.backup
+*.orig
+*.rej
+
+# Ignore user-specific Visual Studio project file
+*.csproj.user
